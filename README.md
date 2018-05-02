@@ -13,3 +13,7 @@ All required libraries is available in the requirements.txt
 - Navigate to /bin
 - Type source activate
 - This will bring you into a virtualenv
+- Change the variables to suit your requirements
+
+## Execute
+To execute, just type python /src/
