@@ -1,4 +1,4 @@
-# automated_mail
+# Python Mail Setup
 
 **TLDR;** This is a projet to setup mail system to deliver to recipients when the row counts on a table in postgres is below threshold
 
@@ -16,4 +16,4 @@ All required libraries is available in the requirements.txt
 - Change the variables to suit your requirements
 
 ## Execute
-To execute, just type python /src/
+To execute, just type python /src/row_count_status_mail.py
